@@ -1,0 +1,82 @@
+body {
+    background-color:bisque;
+}
+.taskbar {
+    background-color: rgb(186, 216, 238);
+    width: 1520px;
+    height: 50px;
+    position: absolute;
+    top: 250px;
+}
+table {
+    font-size: 20px;
+    font-family:"Bahnschrift SemiBold";
+    position: relative;
+    left: 30px;
+    top: 15px;
+}
+ 
+    
+
+.image1 {
+    width: 600px;
+}
+.title {
+    display: inline;
+    font-family:'Rockwell';
+    font-size: 80px;
+    position: absolute;
+    left: 800px;
+    
+}
+p {
+    font-size: 40px;
+    font-family:'Rockwell';
+    display: inline-block;
+    position: absolute;
+    left: 990px;
+    top: 120px;
+}
+.header {
+    background-color: rgb(196, 240, 249);
+}
+.cast {
+    background-color:rgb(249, 162, 162);
+    height: 690px;
+    width: 400px;
+    position: relative;
+    bottom: 650px;
+    
+}
+h2 {
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-family: 'Rockwell';
+}
+.list {
+    font-size: 30px;
+    
+}
+li {
+    margin-bottom: 7px;
+}
+.main {
+    width: 950px;
+    position: relative;
+    left: 480px;
+    top: 83px;
+}tr, td {
+    
+    padding-right: 20px;
+ }
+
+.circle {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-radius: 500px;
+    text-align:center;
+    border: 2px solid black;
+}
